@@ -23,11 +23,11 @@ repository: "mustak-21/skmustakali.github.io"
 author:
   # Biographic information
   avatar           : "pic_SkMAli.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Sk Mustak Ali"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoctoral Research Associate"
+  location         : "East Lansing"
+  employer         : "Facility for Rare Isotope Beams (FRIB), Michigan State University"
   uri              : # URL
   email            : "none@example.org" 
 
